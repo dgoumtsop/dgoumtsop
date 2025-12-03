@@ -10,6 +10,7 @@ I enjoy tackling complex problems through clean, efficient code and translating 
 - 🌐 Catch me at the gym, pick up soccer or freelancing in my freetime
 - 🤝 Actively networking and applying for **SWE internships for Summer 2026**
 - 📬 Reach me at: **dgoumtsop@gmail.com**
+- Check out my Coding Portfolio : https://dgoumtso.netlify.app/
 
   ---
   <p align="left">
@@ -21,12 +22,9 @@ Languages:
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Assembly x86](https://img.shields.io/badge/Assembly%20x86-525252?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </p>
-
-  
   
 Frameworks & DB :
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

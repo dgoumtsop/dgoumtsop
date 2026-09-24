@@ -1,17 +1,17 @@
-## Hey there 👋 I'm Damaris 
- 
-# 🎯 **About Me**
+## Hi, I'm Damaris
 
-I’m a junior **Computer Science** student at **George Mason University** with a strong interest in software engineering, AI, and building scalable applications.
-I enjoy tackling complex problems through clean, efficient code and translating ideas into impactful real-world projects
+Computer Science student at George Mason University, graduating May 2027. I focus on backend engineering and systems — building things end to end, then measuring whether they hold up.
 
-- 🎓 CS major graduating **May 2027**
-- 💻 Practicing **LeetCode**, building **real-world projects**, and shipping **clean code**
-- 🌐 Catch me at the gym, pick up soccer or freelancing in my freetime
-- 🤝 Actively networking and applying for **SWE internships for Summer 2026**
-- 📬 Reach me at: **dgoumtsop@gmail.com**
-- Check out my Coding Portfolio : https://dgoumtso.netlify.app/
+- 🎓 CS, George Mason University — May 2027
+- 🛠️ Currently building [Drift](https://github.com/dgoumtsop/Drift) (Go API gateway) and [Soccer Predictor](https://github.com/dgoumtsop/Soccer-Predictor) (Dixon-Coles match prediction)
+- 📌 Open to new-grad software engineering roles
+- 🌐 [Portfolio](https://dgoumtso.netlify.app) · [LinkedIn](https://www.linkedin.com/in/damaris-goumtsop-480692305/) · dgoumtsop@gmail.com
 
+---
+
+**Languages** — Java, Go, Python, TypeScript, JavaScript, SQL
+**Backend & data** — FastAPI, Spring Boot, Node.js, Redis, PostgreSQL, MongoDB
+**Infrastructure** — Docker, Prometheus, GitHub Actions, AWS, Linux, Git
   ---
   <p align="left">
 Languages:

@@ -1,16 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Damaris%20Goumtsop&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Build%20it.%20Measure%20it.%20Break%20it.&descSize=18&descAlignY=60" width="100%" alt="Damaris Goumtsop"/>
 
-<h3 align="center">I find the exact point where things quietly stop working.</h3>
+<h3 align="center">I build reliable systems, and I care most about where they break.</h3>
 
 <p align="center">
   The bug that only shows up under load.<br>
   The proof that holds on paper and fails in float32.<br>
   The model that's confident and wrong.<br><br>
-  I build software, then spend an unreasonable amount of time trying to break it.
+  I'm always learning, and I'm looking for a team where I can keep growing.
 </p>
 
 <p align="center">
-  Computer Science at <b>George Mason University</b> · May 2027 · English / Français
+  Computer Science at <b>George Mason University</b> · May 2027 ·
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 ## Off the keyboard
 
-Soccer, in every form: watching it, arguing about it, and (inevitably) modeling it.
+I love soccer, reading and cars.
 
 <br>
 

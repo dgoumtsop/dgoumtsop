@@ -1,8 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Damaris%20Goumtsop&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Backend%20engineering%20%C2%B7%20Systems&descSize=18&descAlignY=60" width="100%" alt="Damaris Goumtsop"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Damaris%20Goumtsop&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Build%20it.%20Measure%20it.%20Break%20it.&descSize=18&descAlignY=60" width="100%" alt="Damaris Goumtsop"/>
 
 <p align="center">
-  Computer Science at <b>George Mason University</b> · May 2027<br>
-  I build things end to end, then measure whether they hold up.
+  I like finding the exact point where software stops doing what it claims.<br>
+  A race condition in a rate limiter. A rounding error a neural network verifier can't see.<br>
+  I build things, then I go looking for how they fail.
+</p>
+
+<p align="center">
+  Computer Science at <b>George Mason University</b> · May 2027 · Bilingual (English / French)
 </p>
 
 <p align="center">
@@ -15,7 +20,15 @@
 
 <br>
 
-## Currently building
+## On my desk right now
+
+**VerifierProbe**: a research toolkit that attacks DNN verifiers, built on α,β-CROWN. Verifiers prove a network is safe using exact math, but real networks run in float32. I'm hunting for the inputs that fall into that gap, where a verifier says "certified safe" and the network still gets it wrong, and building tooling to dump what the verifier is actually computing along the way.
+
+**School expense manager**: a budgeting and expense tracking app (FCFA) built from a French-language spec. Budgets, expense entry, reports and export.
+
+<br>
+
+## Shipped
 
 <p align="center">
   <a href="https://github.com/dgoumtsop/Drift">
@@ -26,17 +39,23 @@
   </a>
 </p>
 
-**Drift** is a Go API gateway. **Soccer Predictor** is a match prediction tool built on the Dixon-Coles model.
+**Drift** is a Go API gateway built from first principles, with an atomic Redis Lua rate limiter and live Prometheus metrics. **Soccer Predictor** is a Premier League match prediction pipeline that combines Dixon-Coles with LightGBM.
+
+<br>
+
+## Previously
+
+U.S. Senate, Software Engineer Intern (2025) and IT Intern (2024) · NASA L'SPACE Academy, Systems Engineer Intern (2023)
 
 <br>
 
 ## Tech stack
 
 **Languages**<br>
-<img src="https://skillicons.dev/icons?i=java,go,py,ts,js&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,go,py,c,cpp,ts,js&theme=dark" alt="Languages"/>
 
-**Backend & data**<br>
-<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,redis,postgres,mongodb&theme=dark" alt="Backend and data"/>
+**Frameworks & data**<br>
+<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,react,postgres,mysql,redis,mongodb&theme=dark" alt="Frameworks and data"/>
 
 **Infrastructure**<br>
 <img src="https://skillicons.dev/icons?i=docker,prometheus,githubactions,aws,linux,git&theme=dark" alt="Infrastructure"/>

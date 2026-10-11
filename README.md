@@ -1,39 +1,46 @@
-### Hi, I'm Damaris 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Damaris%20Goumtsop&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Backend%20engineering%20%C2%B7%20Systems&descSize=18&descAlignY=60" width="100%" alt="Damaris Goumtsop"/>
 
-Computer Science student at George Mason University, graduating May 2027. I focus on backend engineering and systems: building things end to end, then measuring whether they hold up.
+<p align="center">
+  Computer Science at <b>George Mason University</b> · May 2027<br>
+  I build things end to end, then measure whether they hold up.
+</p>
 
-**Education** · B.S. Computer Science, George Mason University (May 2027)
-**Building** · [Drift](https://github.com/dgoumtsop/Drift), a Go API gateway, and [Soccer Predictor](https://github.com/dgoumtsop/Soccer-Predictor), Dixon-Coles match prediction
-**Looking for** · New-grad software engineering roles
-**Find me** · [Portfolio](https://dgoumtso.netlify.app) · [LinkedIn](https://www.linkedin.com/in/damaris-goumtsop-480692305/) · [dgoumtsop@gmail.com](mailto:dgoumtsop@gmail.com)
+<p align="center">
+  <a href="https://dgoumtso.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/damaris-goumtsop-480692305/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dgoumtsop@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
----
+<p align="center"><b>Open to new-grad software engineering roles</b></p>
 
-### Tech Stack
+<br>
 
-**Languages**
+## Currently building
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="center">
+  <a href="https://github.com/dgoumtsop/Drift">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dgoumtsop&repo=Drift&theme=tokyonight&hide_border=true" alt="Drift"/>
+  </a>
+  <a href="https://github.com/dgoumtsop/Soccer-Predictor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dgoumtsop&repo=Soccer-Predictor&theme=tokyonight&hide_border=true" alt="Soccer Predictor"/>
+  </a>
+</p>
 
-**Backend & Data**
+**Drift** is a Go API gateway. **Soccer Predictor** is a match prediction tool built on the Dixon-Coles model.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<br>
 
-**Infrastructure**
+## Tech stack
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=java,go,py,ts,js&theme=dark" alt="Languages"/>
+
+**Backend & data**<br>
+<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,redis,postgres,mongodb&theme=dark" alt="Backend and data"/>
+
+**Infrastructure**<br>
+<img src="https://skillicons.dev/icons?i=docker,prometheus,githubactions,aws,linux,git&theme=dark" alt="Infrastructure"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%" alt=""/>
